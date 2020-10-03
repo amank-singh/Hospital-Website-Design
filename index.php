@@ -6,11 +6,11 @@
               <h6 class="entry-head">WELCOME TO A WORLD OF INFINITE POSSIBILITIES</h6>
             <h1 class="entry-main">APPLE HOSPITAL</h1>
             <h4 class="entry-main-sub">& TEST TUBE BABY CENTRE</h4>
-            
+
               </div>
             </div>
 
-            
+
 
         </div>
       </section>
@@ -41,7 +41,7 @@
               </div></a>
             </div>
 
-            
+
 
             <div class="col-sm-4 mrgp50">
             <a href="./services.php#infertility"><div class="card">
@@ -50,14 +50,14 @@
                   <h5>INFERTILITY</h5>
                   <p>In-vitro Fertilisation (Test Tube Baby) Sperm Bank Embryo Freezing</p>
 
-                </div></a>
-              </div>
+                </div>
+              </div></a>
             </div>
           </div>
         </div>
 
       </section>
-      
+
       <section class="welcome">
         <div class="container">
 
@@ -68,18 +68,18 @@
               <p>Apple hospital has 5 glorious years of excellence in child care, women care and fertility. Setting the benchmark in neonatal and pediatrics intensive care, Apple Hospital has played a major role in saving thousands of critically ill children and has emerged as one of the best children’s hospitals in the city. We aim to provide high standards of care for the mother, women, fetus, new-born and children so that none of them is deprived of a tertiary care facility. The measure of our success is in the number of smiling faces. Filling your life with the pinkest of health is our dream. As a Women and Children’s Hospital, Apple Hospital strives to send you home in perfect health as a colourful life welcomes you back.</p>
               <hr>
               <h6>To Avail Best In Class Service</h6>
-              <a class="btn btn-3 btn-lg mrg15" href="./contact.php">Contact Us</a>
+              <a href="./contact.php"><button class="btn btn-3 btn-lg mrg25">Contact Us</button></a>
             </div>
             <div class="col-sm-6 text-right mrgp50">
               <img src="img/555.jpg" >
             </div>
           </div>
         </div>
-      </section>  
+      </section>
       <div class="container">
         <hr>
       </div>
-      
+
 
       <section class="doubt">
 
@@ -96,7 +96,7 @@
               <p class="mrg15 text-justify">Rest assured, when you choose Apple Hospital, you and your child will be in able hands.</p>
               <hr>
               <h6 class="mrg15 text-justify">It's normal to have questions. Contact us now to talk to a professional. We are here for you 24/7</h6>
-              <a class="btn btn-3 btn-lg mrg25" href="./contact.php">Contact Us</a>
+              <a href="./contact.php"><button class="btn btn-3 btn-lg mrg25">Contact Us</button></a>
             </div>
           </div>
 
@@ -214,7 +214,7 @@
             </div>
         </div>
       </section>
-<!-- 
+<!--
       <section class="pdg100  pdgb100 why text-center">
         <h2>Why Apple Hospital</h2>
         <div class="container">
@@ -237,7 +237,7 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flickity/1.0.0/flickity.pkgd.min.js"></script>
-    
+
     <script src="js/script.js"></script>
   </body>
 </html>
