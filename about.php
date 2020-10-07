@@ -17,7 +17,7 @@
 
       <section class="about">
           <div class="container">
-          <h2>WELCOME TO APPLE HOSPITAL SIKAR & TEST TUBE BABY CENTER</h2>
+          <h2>WELCOME TO APPLE HOSPITAL SIKAR AND TEST TUBE BABY CENTER</h2>
           <h4>BEST IN CLASS SERVICE BEST IN CLASS DOCTORS</h4>
             <div class="row mrg50 align-items-center">
             <div class="col-sm-6 text-justify">
