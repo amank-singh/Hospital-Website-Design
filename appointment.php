@@ -31,7 +31,7 @@
 
       if(empty(trim($_POST['name']))){
 
-          $err = 'Please enter your name';
+          $err = 'Please enter your Name';
 
 
       } else{
