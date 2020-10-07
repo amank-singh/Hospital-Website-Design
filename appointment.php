@@ -20,7 +20,7 @@
 
       if(empty(trim($_POST["phone"]))){
 
-          $err = 'Please enter an phone number';
+          $err = 'Please enter a phone number';
 
 
       } else{
