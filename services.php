@@ -51,7 +51,7 @@
               <div class="col-sm-6 mrgp50">
                   <h4 class="services-sub-head"><b>CHILD CARE</b></h4>
                   <h6 class="mrg5">24/7 HEALTHCARE FOR CHILDREN</h6>
-                  <p class="text-justify mrg25">We boast of our Pediatricians as well qualified, knowledgeable and amongst the finest available in the city who work dedicatedly towards enhancing, sustaining and restoring children’s health and development. Since they have undergone special training to work with infants, children and adolescents and understand the importance of listening carefully to you and your child, they are well equipped to help you with the questions that you may have about your child’s development, health and parenting and can guide you in anticipating your child’s needs</p>
+                  <p class="text-justify mrg25">We boast of our Pediatricians as well qualified, knowledgeable and amongst the finest available in the city, who work dedicatedly towards enhancing, sustaining and restoring children’s health and development. Since they have undergone special training to work with infants, children and adolescents and understand the importance of listening carefully to you and your child, they are well equipped to help you with the questions that you may have about your child’s development, health and parenting and can guide you in anticipating your child’s needs</p>
               </div>
               
             </div>
