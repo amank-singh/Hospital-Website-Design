@@ -22,7 +22,7 @@
             <div class="row mrg50 align-items-center">
             <div class="col-sm-6 text-justify">
                 
-              <p>Apple hospital has 5 glorious years of excellence in child care, women care and fertility. Setting the benchmark in neonatal and pediatrics intensive care, Apple Hospital has played a major role in saving thousands of critically ill children and has emerged as one of the best children’s hospitals in the city. We aim to provide high standards of care for the mother, women, fetus, new-born and children so that none of them is deprived of a tertiary care facility. The measure of our success is in the number of smiling faces. Filling your life with the pinkest of health is our dream. As a Women and Children’s Hospital, Apple Hospital strives to send you home in perfect health as a colourful life welcomes you back.</p>
+              <p>Apple hospital has Five glorious years of excellence in child care, women care and fertility. Setting the benchmark in neonatal and pediatrics intensive care, Apple Hospital has played a major role in saving thousands of critically ill children and has emerged as one of the best children’s hospitals in the city. We aim to provide high standards of care for the mother, women, fetus, new-born and children so that none of them is deprived of a tertiary care facility. The measure of our success is in the number of smiling faces. Filling your life with the pinkest of health is our dream. As a Women and Children’s Hospital, Apple Hospital strives to send you home in perfect health as a colourful life welcomes you back.</p>
               <hr>
               <h6>To Avail Best In Class Service</h6>
               <a class="btn btn-3 btn-lg mrg15" href="">Contact Us</a>
